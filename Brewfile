@@ -178,13 +178,3 @@ brew brew-file
 tap sidneys/homebrew
 brew chntpw
 brew openssl@1.0
-
-# App Store applications
-appstore 1037126344  Apple Configurator  (2.16)
-appstore 682658836   GarageBand          (10.4.7)
-appstore 408981434   iMovie              (10.3.5)
-appstore 1319778037  iStat Menus         (6.63)
-appstore 409183694   Keynote             (12.2.1)
-appstore 409203825   Numbers             (12.2.1)
-appstore 409201541   Pages               (12.2.1)
-appstore 497799835   Xcode               (14.2)
