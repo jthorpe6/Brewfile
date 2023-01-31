@@ -18,6 +18,7 @@ brew cdrtools
 brew cmake
 brew colima
 brew coreutils
+brew dropbear
 brew duf
 brew emacs
 brew exa
