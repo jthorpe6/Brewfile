@@ -20,7 +20,6 @@ brew colima
 brew coreutils
 brew dropbear
 brew duf
-brew emacs
 brew exa
 brew fd
 brew fontconfig
@@ -57,6 +56,7 @@ brew jpeg-turbo
 brew jq
 brew libevent
 brew libgcrypt
+brew libgit2
 brew libgpg-error
 brew libidn2
 brew libimobiledevice
@@ -142,17 +142,10 @@ brew zsh-git-prompt
 brew zsh-syntax-highlighting
 brew zstd
 
-tap homebrew/cask-fonts
-cask font-hasklig
-cask font-hasklug-nerd-font
-cask font-jetbrains-mono
-cask font-jetbrains-mono-nerd-font
-
-tap homebrew/cask-versions
-
 tap homebrew/cask
 cask checkra1n
 cask docker
+cask emacs
 cask flameshot
 cask fork
 cask gather
@@ -167,6 +160,14 @@ cask slack
 cask temurin
 cask utm
 cask visual-studio-code
+
+tap homebrew/cask-fonts
+cask font-hasklig
+cask font-hasklug-nerd-font
+cask font-jetbrains-mono
+cask font-jetbrains-mono-nerd-font
+
+tap homebrew/cask-versions
 
 tap blacktop/tap
 brew ipsw
