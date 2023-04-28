@@ -7,6 +7,8 @@ brew asciinema
 brew atk
 brew autoconf
 brew automake
+brew azure-cli
+brew bash
 brew bat
 brew bdw-gc
 brew ca-certificates
@@ -42,6 +44,7 @@ brew graphite2
 brew grc
 brew gtk+
 brew guile
+brew gum
 brew harfbuzz
 brew hexyl
 brew hicolor-icon-theme
@@ -51,6 +54,7 @@ brew ideviceinstaller
 brew iproute2mac
 brew ipython
 brew isl
+brew ispell
 brew jansson
 brew jpeg-turbo
 brew jq
@@ -84,7 +88,7 @@ brew libxrender
 brew libzip
 brew lima
 brew little-cms2
-brew llvm
+brew llvm@15
 brew lua@5.3
 brew lz4
 brew lzo
@@ -98,11 +102,13 @@ brew ncurses
 brew nettle
 brew ninja
 brew nmap
+brew nvm
 brew oniguruma
 brew openjdk@17
 brew openssl@1.1
 brew openssl@3
 brew p11-kit
+brew pandoc
 brew pango
 brew pcre
 brew pcre2
@@ -110,6 +116,7 @@ brew pipenv
 brew pipx
 brew pixman
 brew pkg-config
+brew pngpaste
 brew poetry
 brew prettyping
 brew procs
@@ -127,12 +134,14 @@ brew snappy
 brew socat
 brew sqlite
 brew tmux
+brew tree
 brew unbound
 brew utf8proc
 brew vde
 brew virtualenv
 brew wget
 brew wimlib
+brew xcodes
 brew xorgproto
 brew xz
 brew z3
@@ -154,8 +163,10 @@ cask grandperspective
 cask iterm2
 cask jtool2
 cask little-snitch
+cask microsoft-azure-storage-explorer
 cask obsidian
 cask onedrive
+cask rectangle
 cask slack
 cask temurin
 cask utm
