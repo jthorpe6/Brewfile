@@ -69,6 +69,7 @@ brew harfbuzz
 brew hexyl
 brew hicolor-icon-theme
 brew highway
+brew htmlq
 brew htop
 brew icu4c
 brew ideviceinstaller
@@ -81,6 +82,7 @@ brew jansson
 brew jpeg-turbo
 brew jpeg-xl
 brew jq
+brew keyring
 brew lame
 brew leptonica
 brew libarchive
@@ -131,6 +133,7 @@ brew lima
 brew little-cms2
 brew llvm
 brew llvm@15
+brew llvm@16
 brew lua
 brew lua@5.3
 brew lz4
@@ -176,9 +179,15 @@ brew procs
 brew pwgen
 brew pycparser
 brew pygments
+brew python-argcomplete
+brew python-build
 brew python-certifi
+brew python-packaging
+brew python-pyproject-hooks
+brew python-setuptools
 brew python@3.10
 brew python@3.11
+brew python@3.12
 brew qemu
 brew rav1e
 brew readline
@@ -203,6 +212,7 @@ brew unbound
 brew utf8proc
 brew vde
 brew virtualenv
+brew virtualenvwrapper
 brew webp
 brew wget
 brew wimlib
@@ -212,6 +222,7 @@ brew xcodes
 brew xorgproto
 brew xvid
 brew xz
+brew yq
 brew z3
 brew zeromq
 brew zimg
@@ -223,22 +234,18 @@ brew zstd
 
 tap homebrew/cask
 cask checkra1n
-cask discord
 cask docker
 cask emacs
+cask firefox
 cask flameshot
 cask gcc-aarch64-embedded
 cask grandperspective
 cask iterm2
-cask jtool2
 cask little-snitch
 cask onedrive
 cask rectangle
-cask slack
 cask temurin
 cask utm
-cask virtualbuddy
-cask visual-studio-code
 
 tap homebrew/cask-fonts
 cask font-hasklig
@@ -250,6 +257,9 @@ tap homebrew/cask-versions
 
 tap blacktop/tap
 brew ipsw
+
+tap esolitos/ipa
+brew sshpass
 
 tap excitedplus1s/repo
 
