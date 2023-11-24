@@ -251,8 +251,6 @@ cask temurin
 cask utm
 
 tap homebrew/cask-fonts
-cask font-hasklig
-cask font-hasklug-nerd-font
 cask font-iosevka-curly
 cask font-jetbrains-mono
 cask font-jetbrains-mono-nerd-font
