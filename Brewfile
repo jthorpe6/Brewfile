@@ -8,6 +8,7 @@ brew aribb24
 brew asciinema
 brew aspell
 brew atk
+brew atool
 brew autoconf
 brew automake
 brew azure-cli
@@ -84,6 +85,7 @@ brew jpeg-xl
 brew jq
 brew keyring
 brew lame
+brew ldid
 brew leptonica
 brew libarchive
 brew libass
@@ -178,6 +180,7 @@ brew prettyping
 brew procs
 brew pwgen
 brew pycparser
+brew pyenv
 brew pygments
 brew python-argcomplete
 brew python-build
@@ -206,7 +209,6 @@ brew svt-av1
 brew tesseract
 brew theora
 brew tmux
-brew tree
 brew tree-sitter
 brew unbound
 brew utf8proc
@@ -244,12 +246,14 @@ cask iterm2
 cask little-snitch
 cask onedrive
 cask rectangle
+cask slack
 cask temurin
 cask utm
 
 tap homebrew/cask-fonts
 cask font-hasklig
 cask font-hasklug-nerd-font
+cask font-iosevka-curly
 cask font-jetbrains-mono
 cask font-jetbrains-mono-nerd-font
 
