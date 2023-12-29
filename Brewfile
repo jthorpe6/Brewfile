@@ -32,6 +32,7 @@ brew coreutils
 brew ctop
 brew dav1d
 brew dbus
+brew docker-completion
 brew dropbear
 brew dtc
 brew emacs
@@ -49,6 +50,7 @@ brew fribidi
 brew fzf
 brew gcc
 brew gcc@11
+brew gd
 brew gdbm
 brew gdk-pixbuf
 brew gettext
@@ -81,6 +83,7 @@ brew ipython
 brew isl
 brew ispell
 brew jansson
+brew jasper
 brew jpeg-turbo
 brew jpeg-xl
 brew jq
@@ -91,6 +94,7 @@ brew leptonica
 brew libarchive
 brew libass
 brew libassuan
+brew libavif
 brew libb2
 brew libbluray
 brew libevent
@@ -109,6 +113,7 @@ brew libplist
 brew libpng
 brew libpthread-stubs
 brew librist
+brew librsvg
 brew libsamplerate
 brew libslirp
 brew libsndfile
@@ -148,6 +153,7 @@ brew lua@5.3
 brew lz4
 brew lzo
 brew m4
+brew make
 brew mas
 brew mbedtls
 brew meson
@@ -157,6 +163,7 @@ brew mpg123
 brew mtr
 brew ncdu
 brew ncurses
+brew netpbm
 brew nettle
 brew ninja
 brew nmap
@@ -200,7 +207,10 @@ brew pygments
 brew python-argcomplete
 brew python-build
 brew python-certifi
+brew python-distlib
+brew python-filelock
 brew python-packaging
+brew python-platformdirs
 brew python-pyproject-hooks
 brew python-setuptools
 brew python@3.10
@@ -212,6 +222,9 @@ brew readline
 brew remake
 brew ripgrep
 brew rubberband
+brew rust
+brew rust-analyzer
+brew screenresolution
 brew sdl2
 brew shellcheck
 brew six
@@ -261,7 +274,6 @@ cask little-snitch
 cask onedrive
 cask rectangle
 cask slack
-cask temurin
 cask utm
 
 tap homebrew/cask-fonts
@@ -282,8 +294,8 @@ tap excitedplus1s/repo
 tap rcmdnk/file
 brew brew-file
 
-tap sidneys/homebrew
+tap wader/tap
+
+# Other Homebrew packages
 brew chntpw
 brew openssl@1.0
-
-tap wader/tap
