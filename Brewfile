@@ -12,6 +12,7 @@ brew autoconf
 brew automake
 brew azure-cli
 brew bash
+brew bash-language-server
 brew bat
 brew bdw-gc
 brew brotli
@@ -41,6 +42,7 @@ brew eslint
 brew exa
 brew fd
 brew ffmpeg
+brew ffmpegthumbnailer
 brew flac
 brew fontconfig
 brew fq
@@ -55,6 +57,7 @@ brew gdbm
 brew gdk-pixbuf
 brew gettext
 brew gh
+brew ghostscript
 brew giflib
 brew git
 brew glib
@@ -75,8 +78,10 @@ brew hicolor-icon-theme
 brew highway
 brew htmlq
 brew htop
+brew hwloc
 brew icu4c
 brew ideviceinstaller
+brew imagemagick
 brew imath
 brew iproute2mac
 brew ipython
@@ -84,11 +89,13 @@ brew isl
 brew ispell
 brew jansson
 brew jasper
+brew jbig2dec
 brew jpeg-turbo
 brew jpeg-xl
 brew jq
 brew keyring
 brew lame
+brew lcov
 brew ldid
 brew leptonica
 brew libarchive
@@ -97,21 +104,29 @@ brew libassuan
 brew libavif
 brew libb2
 brew libbluray
+brew libde265
 brew libevent
 brew libgcrypt
 brew libgit2
 brew libgpg-error
+brew libheif
+brew libidn
 brew libidn2
 brew libimobiledevice
 brew libksba
 brew liblinear
+brew liblqr
+brew libmediainfo
 brew libmicrohttpd
+brew libmms
 brew libmpc
 brew libnghttp2
 brew libogg
+brew libomp
 brew libplist
 brew libpng
 brew libpthread-stubs
+brew libraw
 brew librist
 brew librsvg
 brew libsamplerate
@@ -142,10 +157,12 @@ brew libxfixes
 brew libxi
 brew libxrender
 brew libxtst
+brew libzen
 brew libzip
 brew lima
 brew little-cms2
 brew llvm
+brew llvm@12
 brew llvm@15
 brew llvm@16
 brew lua
@@ -154,8 +171,10 @@ brew lz4
 brew lzo
 brew m4
 brew make
+brew marksman
 brew mas
 brew mbedtls
+brew media-info
 brew meson
 brew mpdecimal
 brew mpfr
@@ -171,8 +190,10 @@ brew node
 brew npth
 brew nspr
 brew nss
+brew numpy
 brew nvm
 brew oniguruma
+brew openblas
 brew opencore-amr
 brew openexr
 brew openjdk
@@ -181,6 +202,7 @@ brew openjpeg
 brew openldap
 brew openssl@1.1
 brew openssl@3
+brew openvino
 brew opus
 brew p11-kit
 brew pandoc
@@ -198,19 +220,21 @@ brew poetry
 brew poppler
 brew prettyping
 brew procs
+brew pugixml
 brew pwgen
 brew pycparser
 brew pyenv
 brew pyenv-virtualenv
 brew pyenv-virtualenvwrapper
 brew pygments
+brew pyright
 brew python-argcomplete
+brew python-brotli
 brew python-build
 brew python-certifi
-brew python-distlib
 brew python-filelock
+brew python-mutagen
 brew python-packaging
-brew python-platformdirs
 brew python-pyproject-hooks
 brew python-setuptools
 brew python@3.10
@@ -226,6 +250,7 @@ brew rust
 brew rust-analyzer
 brew screenresolution
 brew sdl2
+brew shared-mime-info
 brew shellcheck
 brew six
 brew snappy
@@ -233,11 +258,15 @@ brew socat
 brew speex
 brew sqlite
 brew srt
+brew sshpass
 brew svt-av1
+brew tbb
 brew tesseract
 brew theora
 brew tmux
 brew tree-sitter
+brew typescript
+brew typescript-language-server
 brew unbound
 brew utf8proc
 brew vde
@@ -253,6 +282,7 @@ brew xorgproto
 brew xvid
 brew xz
 brew yq
+brew yt-dlp
 brew z3
 brew zeromq
 brew zimg
@@ -263,11 +293,13 @@ brew zsh-syntax-highlighting
 brew zstd
 
 tap homebrew/cask
+cask 010-editor
 cask checkra1n
 cask docker
 cask emacs
 cask firefox
 cask flameshot
+cask fontforge
 cask gcc-aarch64-embedded
 cask grandperspective
 cask little-snitch
@@ -287,7 +319,6 @@ tap blacktop/tap
 brew ipsw
 
 tap esolitos/ipa
-brew sshpass
 
 tap excitedplus1s/repo
 
@@ -299,3 +330,5 @@ tap wader/tap
 # Other Homebrew packages
 brew chntpw
 brew openssl@1.0
+brew python-distlib
+brew python-platformdirs
