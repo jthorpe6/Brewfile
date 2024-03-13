@@ -34,6 +34,7 @@ brew ctop
 brew dav1d
 brew dbus
 brew docker-completion
+brew dockerfile-language-server
 brew dropbear
 brew dtc
 brew emacs
@@ -231,9 +232,6 @@ brew pyright
 brew python-argcomplete
 brew python-brotli
 brew python-build
-brew python-certifi
-brew python-filelock
-brew python-mutagen
 brew python-packaging
 brew python-pyproject-hooks
 brew python-setuptools
@@ -294,6 +292,7 @@ brew zstd
 
 tap homebrew/cask
 cask 010-editor
+cask basictex
 cask checkra1n
 cask docker
 cask emacs
@@ -307,6 +306,7 @@ cask onedrive
 cask rectangle
 cask slack
 cask utm
+cask wkhtmltopdf
 
 tap homebrew/cask-fonts
 cask font-iosevka-curly
@@ -331,4 +331,6 @@ tap wader/tap
 brew chntpw
 brew openssl@1.0
 brew python-distlib
+brew python-filelock
+brew python-mutagen
 brew python-platformdirs
