@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew abseil
 brew aom
 brew aria2
 brew aribb24
@@ -24,15 +25,18 @@ brew capstone
 brew cask
 brew ccls
 brew cdrtools
+brew certifi
 brew cffi
 brew cjson
 brew clang-format
 brew cmake
-brew colima
+brew cmake-language-server
 brew coreutils
 brew ctop
+brew cython
 brew dav1d
 brew dbus
+brew dialog
 brew docker-completion
 brew dockerfile-language-server
 brew dropbear
@@ -94,6 +98,7 @@ brew jbig2dec
 brew jpeg-turbo
 brew jpeg-xl
 brew jq
+brew jsoncpp
 brew keyring
 brew lame
 brew lcov
@@ -114,6 +119,7 @@ brew libheif
 brew libidn
 brew libidn2
 brew libimobiledevice
+brew libimobiledevice-glue
 brew libksba
 brew liblinear
 brew liblqr
@@ -164,8 +170,10 @@ brew lima
 brew little-cms2
 brew llvm
 brew llvm@12
+brew llvm@14
 brew llvm@15
 brew llvm@16
+brew llvm@17
 brew lua
 brew lua@5.3
 brew lz4
@@ -230,10 +238,8 @@ brew pyenv-virtualenvwrapper
 brew pygments
 brew pyright
 brew python-argcomplete
-brew python-brotli
 brew python-build
 brew python-packaging
-brew python-pyproject-hooks
 brew python-setuptools
 brew python@3.10
 brew python@3.11
@@ -246,6 +252,7 @@ brew ripgrep
 brew rubberband
 brew rust
 brew rust-analyzer
+brew rustfmt
 brew screenresolution
 brew sdl2
 brew shared-mime-info
@@ -300,13 +307,16 @@ cask firefox
 cask flameshot
 cask fontforge
 cask gcc-aarch64-embedded
+cask ghidra
 cask grandperspective
 cask little-snitch
 cask onedrive
 cask rectangle
 cask slack
+cask temurin
 cask utm
 cask wkhtmltopdf
+cask xmind
 
 tap homebrew/cask-fonts
 cask font-iosevka-curly
@@ -330,7 +340,9 @@ tap wader/tap
 # Other Homebrew packages
 brew chntpw
 brew openssl@1.0
+brew python-brotli
 brew python-distlib
 brew python-filelock
 brew python-mutagen
 brew python-platformdirs
+brew python-pyproject-hooks
