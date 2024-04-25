@@ -307,21 +307,16 @@ cask firefox
 cask flameshot
 cask fontforge
 cask gcc-aarch64-embedded
-cask ghidra
 cask grandperspective
 cask little-snitch
 cask onedrive
 cask rectangle
 cask slack
-cask temurin
 cask utm
 cask wkhtmltopdf
 cask xmind
 
 tap homebrew/cask-fonts
-cask font-iosevka-curly
-cask font-jetbrains-mono
-cask font-jetbrains-mono-nerd-font
 
 tap homebrew/cask-versions
 
