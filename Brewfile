@@ -214,6 +214,7 @@ brew openssl@3
 brew openvino
 brew opus
 brew p11-kit
+brew p7zip
 brew pandoc
 brew pango
 brew pcre
@@ -303,7 +304,6 @@ cask basictex
 cask checkra1n
 cask docker
 cask emacs
-cask firefox
 cask flameshot
 cask fontforge
 cask gcc-aarch64-embedded
