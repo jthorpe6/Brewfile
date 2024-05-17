@@ -2,7 +2,6 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew abseil
 brew aom
 brew aria2
 brew aribb24
@@ -15,7 +14,6 @@ brew azure-cli
 brew bash
 brew bash-language-server
 brew bat
-brew bdw-gc
 brew brotli
 brew c-ares
 brew ca-certificates
@@ -26,7 +24,6 @@ brew cask
 brew ccls
 brew cdrtools
 brew certifi
-brew cffi
 brew cjson
 brew clang-format
 brew cmake
@@ -35,9 +32,7 @@ brew coreutils
 brew ctop
 brew cython
 brew dav1d
-brew dbus
 brew dialog
-brew docker-completion
 brew dockerfile-language-server
 brew dropbear
 brew dtc
@@ -57,9 +52,6 @@ brew fribidi
 brew fzf
 brew gcc
 brew gcc@11
-brew gd
-brew gdbm
-brew gdk-pixbuf
 brew gettext
 brew gh
 brew ghostscript
@@ -75,11 +67,9 @@ brew gpgme
 brew gradle
 brew graphite2
 brew grc
-brew guile
 brew gum
 brew harfbuzz
 brew hexyl
-brew hicolor-icon-theme
 brew highway
 brew htmlq
 brew htop
@@ -98,8 +88,6 @@ brew jbig2dec
 brew jpeg-turbo
 brew jpeg-xl
 brew jq
-brew jsoncpp
-brew keyring
 brew lame
 brew lcov
 brew ldid
@@ -132,10 +120,8 @@ brew libogg
 brew libomp
 brew libplist
 brew libpng
-brew libpthread-stubs
 brew libraw
 brew librist
-brew librsvg
 brew libsamplerate
 brew libslirp
 brew libsndfile
@@ -160,22 +146,16 @@ brew libxau
 brew libxcb
 brew libxdmcp
 brew libxext
-brew libxfixes
-brew libxi
 brew libxrender
-brew libxtst
 brew libzen
 brew libzip
-brew lima
 brew little-cms2
 brew llvm
 brew llvm@12
 brew llvm@14
 brew llvm@15
-brew llvm@16
 brew llvm@17
 brew lua
-brew lua@5.3
 brew lz4
 brew lzo
 brew m4
@@ -191,7 +171,6 @@ brew mpg123
 brew mtr
 brew ncdu
 brew ncurses
-brew netpbm
 brew nettle
 brew ninja
 brew nmap
@@ -206,7 +185,6 @@ brew openblas
 brew opencore-amr
 brew openexr
 brew openjdk
-brew openjdk@17
 brew openjpeg
 brew openldap
 brew openssl@1.1
@@ -217,7 +195,6 @@ brew p11-kit
 brew p7zip
 brew pandoc
 brew pango
-brew pcre
 brew pcre2
 brew picocom
 brew pinentry
@@ -232,17 +209,11 @@ brew prettyping
 brew procs
 brew pugixml
 brew pwgen
-brew pycparser
 brew pyenv
 brew pyenv-virtualenv
 brew pyenv-virtualenvwrapper
-brew pygments
 brew pyright
-brew python-argcomplete
-brew python-build
 brew python-packaging
-brew python-setuptools
-brew python@3.10
 brew python@3.11
 brew python@3.12
 brew qemu
@@ -254,11 +225,9 @@ brew rubberband
 brew rust
 brew rust-analyzer
 brew rustfmt
-brew screenresolution
 brew sdl2
 brew shared-mime-info
 brew shellcheck
-brew six
 brew snappy
 brew socat
 brew speex
@@ -314,7 +283,6 @@ cask rectangle
 cask slack
 cask utm
 cask wkhtmltopdf
-cask xmind
 
 tap homebrew/cask-fonts
 
@@ -334,10 +302,6 @@ tap wader/tap
 
 # Other Homebrew packages
 brew chntpw
-brew openssl@1.0
-brew python-brotli
 brew python-distlib
 brew python-filelock
-brew python-mutagen
 brew python-platformdirs
-brew python-pyproject-hooks
