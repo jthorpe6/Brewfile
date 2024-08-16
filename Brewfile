@@ -21,15 +21,18 @@ brew cabextract
 brew cairo
 brew capstone
 brew cask
+brew cbindgen
 brew ccls
 brew cdrtools
 brew certifi
+brew cffi
 brew cjson
 brew clang-format
 brew cmake
 brew cmake-language-server
 brew coreutils
 brew ctop
+brew cypher-shell
 brew cython
 brew dav1d
 brew dialog
@@ -40,6 +43,7 @@ brew emacs
 brew enchant
 brew eslint
 brew exa
+brew eza
 brew fd
 brew ffmpeg
 brew ffmpegthumbnailer
@@ -52,6 +56,8 @@ brew fribidi
 brew fzf
 brew gcc
 brew gcc@11
+brew gd
+brew gdk-pixbuf
 brew gettext
 brew gh
 brew ghostscript
@@ -66,7 +72,9 @@ brew gotop
 brew gpgme
 brew gradle
 brew graphite2
+brew graphviz
 brew grc
+brew gts
 brew gum
 brew harfbuzz
 brew hexyl
@@ -79,6 +87,7 @@ brew ideviceinstaller
 brew imagemagick
 brew imath
 brew iproute2mac
+brew ipsw
 brew ipython
 brew isl
 brew ispell
@@ -102,6 +111,7 @@ brew libde265
 brew libevent
 brew libgcrypt
 brew libgit2
+brew libgit2@1.7
 brew libgpg-error
 brew libheif
 brew libidn
@@ -122,6 +132,7 @@ brew libplist
 brew libpng
 brew libraw
 brew librist
+brew librsvg
 brew libsamplerate
 brew libslirp
 brew libsndfile
@@ -171,6 +182,8 @@ brew mpg123
 brew mtr
 brew ncdu
 brew ncurses
+brew neo4j
+brew netpbm
 brew nettle
 brew ninja
 brew nmap
@@ -185,8 +198,8 @@ brew openblas
 brew opencore-amr
 brew openexr
 brew openjdk
+brew openjdk@21
 brew openjpeg
-brew openldap
 brew openssl@1.1
 brew openssl@3
 brew openvino
@@ -209,6 +222,7 @@ brew prettyping
 brew procs
 brew pugixml
 brew pwgen
+brew pycparser
 brew pyenv
 brew pyenv-virtualenv
 brew pyenv-virtualenvwrapper
@@ -235,6 +249,7 @@ brew sqlite
 brew srt
 brew sshpass
 brew svt-av1
+brew taplo
 brew tbb
 brew tesseract
 brew theora
@@ -256,6 +271,7 @@ brew xcodes
 brew xorgproto
 brew xvid
 brew xz
+brew yaml-language-server
 brew yq
 brew yt-dlp
 brew z3
@@ -275,9 +291,10 @@ cask docker
 cask emacs
 cask flameshot
 cask fontforge
-cask gcc-aarch64-embedded
+cask gephi
 cask grandperspective
 cask little-snitch
+cask microsoft-azure-storage-explorer
 cask onedrive
 cask rectangle
 cask slack
@@ -289,7 +306,9 @@ tap homebrew/cask-fonts
 tap homebrew/cask-versions
 
 tap blacktop/tap
-brew ipsw
+
+tap cleishm/neo4j
+brew libcypher-parser
 
 tap esolitos/ipa
 
