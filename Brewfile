@@ -34,6 +34,7 @@ brew coreutils
 brew ctop
 brew cypher-shell
 brew cython
+brew dasel
 brew dav1d
 brew dialog
 brew dockerfile-language-server
@@ -43,6 +44,7 @@ brew emacs
 brew enchant
 brew eslint
 brew exa
+brew eye-d3
 brew eza
 brew fd
 brew ffmpeg
@@ -81,7 +83,6 @@ brew hexyl
 brew highway
 brew htmlq
 brew htop
-brew hwloc
 brew icu4c
 brew ideviceinstaller
 brew imagemagick
@@ -191,10 +192,8 @@ brew node
 brew npth
 brew nspr
 brew nss
-brew numpy
 brew nvm
 brew oniguruma
-brew openblas
 brew opencore-amr
 brew openexr
 brew openjdk
@@ -202,7 +201,6 @@ brew openjdk@21
 brew openjpeg
 brew openssl@1.1
 brew openssl@3
-brew openvino
 brew opus
 brew p11-kit
 brew p7zip
@@ -220,14 +218,12 @@ brew poetry
 brew poppler
 brew prettyping
 brew procs
-brew pugixml
 brew pwgen
 brew pycparser
 brew pyenv
 brew pyenv-virtualenv
 brew pyenv-virtualenvwrapper
 brew pyright
-brew python-packaging
 brew python@3.11
 brew python@3.12
 brew qemu
@@ -236,6 +232,7 @@ brew readline
 brew remake
 brew ripgrep
 brew rubberband
+brew ruff
 brew rust
 brew rust-analyzer
 brew rustfmt
@@ -250,7 +247,6 @@ brew srt
 brew sshpass
 brew svt-av1
 brew taplo
-brew tbb
 brew tesseract
 brew theora
 brew tmux
@@ -277,6 +273,7 @@ brew yt-dlp
 brew z3
 brew zeromq
 brew zimg
+brew zola
 brew zsh-autosuggestions
 brew zsh-completions
 brew zsh-git-prompt
