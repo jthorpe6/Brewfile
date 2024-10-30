@@ -32,7 +32,6 @@ brew cmake
 brew cmake-language-server
 brew coreutils
 brew ctop
-brew cypher-shell
 brew cython
 brew dasel
 brew dav1d
@@ -43,7 +42,6 @@ brew dtc
 brew emacs
 brew enchant
 brew eslint
-brew exa
 brew eye-d3
 brew eza
 brew fd
@@ -72,7 +70,6 @@ brew gnutls
 brew go
 brew gotop
 brew gpgme
-brew gradle
 brew graphite2
 brew graphviz
 brew grc
@@ -83,7 +80,6 @@ brew hexyl
 brew highway
 brew htmlq
 brew htop
-brew icu4c
 brew ideviceinstaller
 brew imagemagick
 brew imath
@@ -109,6 +105,7 @@ brew libavif
 brew libb2
 brew libbluray
 brew libde265
+brew libdeflate
 brew libevent
 brew libgcrypt
 brew libgit2
@@ -159,6 +156,7 @@ brew libxcb
 brew libxdmcp
 brew libxext
 brew libxrender
+brew libyaml
 brew libzen
 brew libzip
 brew little-cms2
@@ -183,7 +181,6 @@ brew mpg123
 brew mtr
 brew ncdu
 brew ncurses
-brew neo4j
 brew netpbm
 brew nettle
 brew ninja
@@ -196,8 +193,6 @@ brew nvm
 brew oniguruma
 brew opencore-amr
 brew openexr
-brew openjdk
-brew openjdk@21
 brew openjpeg
 brew openssl@1.1
 brew openssl@3
@@ -224,8 +219,10 @@ brew pyenv
 brew pyenv-virtualenv
 brew pyenv-virtualenvwrapper
 brew pyright
+brew python-packaging
 brew python@3.11
 brew python@3.12
+brew python@3.13
 brew qemu
 brew rav1e
 brew readline
@@ -233,9 +230,7 @@ brew remake
 brew ripgrep
 brew rubberband
 brew ruff
-brew rust
 brew rust-analyzer
-brew rustfmt
 brew sdl2
 brew shared-mime-info
 brew shellcheck
@@ -256,7 +251,6 @@ brew typescript-language-server
 brew unbound
 brew utf8proc
 brew vde
-brew virtualenv
 brew virtualenvwrapper
 brew webp
 brew wget
@@ -284,6 +278,7 @@ tap homebrew/cask
 cask 010-editor
 cask basictex
 cask checkra1n
+cask deskpad
 cask docker
 cask emacs
 cask flameshot
@@ -318,6 +313,5 @@ tap wader/tap
 
 # Other Homebrew packages
 brew chntpw
-brew python-distlib
-brew python-filelock
-brew python-platformdirs
+brew icu4c
+brew rustfmt
