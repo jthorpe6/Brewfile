@@ -63,6 +63,7 @@ brew gh
 brew ghostscript
 brew giflib
 brew git
+brew git-delta
 brew glib
 brew gmp
 brew gnupg
@@ -80,6 +81,7 @@ brew hexyl
 brew highway
 brew htmlq
 brew htop
+brew icu4c@75
 brew ideviceinstaller
 brew imagemagick
 brew imath
@@ -207,7 +209,6 @@ brew pinentry
 brew pipenv
 brew pipx
 brew pixman
-brew pkg-config
 brew pngpaste
 brew poetry
 brew poppler
@@ -314,4 +315,5 @@ tap wader/tap
 # Other Homebrew packages
 brew chntpw
 brew icu4c
+brew pkg-config
 brew rustfmt
