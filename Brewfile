@@ -37,6 +37,7 @@ brew dasel
 brew dav1d
 brew dialog
 brew dockerfile-language-server
+brew dotnet@8
 brew dropbear
 brew dtc
 brew emacs
@@ -57,6 +58,7 @@ brew fzf
 brew gcc
 brew gcc@11
 brew gd
+brew gdbm
 brew gdk-pixbuf
 brew gettext
 brew gh
@@ -81,7 +83,6 @@ brew hexyl
 brew highway
 brew htmlq
 brew htop
-brew icu4c@75
 brew ideviceinstaller
 brew imagemagick
 brew imath
@@ -221,6 +222,7 @@ brew pyenv-virtualenv
 brew pyenv-virtualenvwrapper
 brew pyright
 brew python-packaging
+brew python@3.10
 brew python@3.11
 brew python@3.12
 brew python@3.13
