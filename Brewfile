@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew abseil
 brew aom
 brew aria2
 brew aribb24
@@ -11,6 +12,7 @@ brew atool
 brew autoconf
 brew automake
 brew azure-cli
+brew basedpyright
 brew bash
 brew bash-language-server
 brew bat
@@ -97,6 +99,7 @@ brew jbig2dec
 brew jpeg-turbo
 brew jpeg-xl
 brew jq
+brew just
 brew lame
 brew lcov
 brew ldid
@@ -112,7 +115,7 @@ brew libdeflate
 brew libevent
 brew libgcrypt
 brew libgit2
-brew libgit2@1.7
+brew libgit2@1.8
 brew libgpg-error
 brew libheif
 brew libidn
@@ -122,6 +125,7 @@ brew libimobiledevice-glue
 brew libksba
 brew liblinear
 brew liblqr
+brew libmagic
 brew libmediainfo
 brew libmicrohttpd
 brew libmms
@@ -199,6 +203,7 @@ brew openexr
 brew openjpeg
 brew openssl@1.1
 brew openssl@3
+brew optipng
 brew opus
 brew p11-kit
 brew p7zip
@@ -215,6 +220,8 @@ brew poetry
 brew poppler
 brew prettyping
 brew procs
+brew protobuf
+brew protobuf-c
 brew pwgen
 brew pycparser
 brew pyenv
@@ -222,6 +229,7 @@ brew pyenv-virtualenv
 brew pyenv-virtualenvwrapper
 brew pyright
 brew python-packaging
+brew python-setuptools
 brew python@3.10
 brew python@3.11
 brew python@3.12
@@ -265,6 +273,7 @@ brew xorgproto
 brew xvid
 brew xz
 brew yaml-language-server
+brew yara
 brew yq
 brew yt-dlp
 brew z3
@@ -319,3 +328,12 @@ brew chntpw
 brew icu4c
 brew pkg-config
 brew rustfmt
+
+# App Store applications
+appstore 682658836 GarageBand (10.4.12)
+appstore 408981434 iMovie (10.4.3)
+appstore 409183694 Keynote (14.3)
+appstore 409203825 Numbers (14.3)
+appstore 409201541 Pages (14.3)
+appstore 1451685025 WireGuard (1.0.16)
+appstore 497799835 Xcode (16.2)
