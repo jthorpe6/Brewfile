@@ -38,6 +38,7 @@ brew cython
 brew dasel
 brew dav1d
 brew dialog
+brew difftastic
 brew dockerfile-language-server
 brew dotnet@8
 brew dropbear
@@ -85,6 +86,7 @@ brew hexyl
 brew highway
 brew htmlq
 brew htop
+brew icu4c@76
 brew ideviceinstaller
 brew imagemagick
 brew imath
@@ -229,7 +231,6 @@ brew pyenv-virtualenv
 brew pyenv-virtualenvwrapper
 brew pyright
 brew python-packaging
-brew python-setuptools
 brew python@3.10
 brew python@3.11
 brew python@3.12
@@ -261,6 +262,7 @@ brew typescript
 brew typescript-language-server
 brew unbound
 brew utf8proc
+brew uv
 brew vde
 brew virtualenvwrapper
 brew webp
@@ -273,6 +275,7 @@ brew xorgproto
 brew xvid
 brew xz
 brew yaml-language-server
+brew yamlfmt
 brew yara
 brew yq
 brew yt-dlp
@@ -328,12 +331,3 @@ brew chntpw
 brew icu4c
 brew pkg-config
 brew rustfmt
-
-# App Store applications
-appstore 682658836 GarageBand (10.4.12)
-appstore 408981434 iMovie (10.4.3)
-appstore 409183694 Keynote (14.3)
-appstore 409203825 Numbers (14.3)
-appstore 409201541 Pages (14.3)
-appstore 1451685025 WireGuard (1.0.16)
-appstore 497799835 Xcode (16.2)
