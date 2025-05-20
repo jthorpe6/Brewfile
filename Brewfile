@@ -24,13 +24,11 @@ brew cairo
 brew capstone
 brew cask
 brew cbindgen
-brew ccls
 brew cdrtools
 brew certifi
 brew cffi
 brew cjson
 brew clang-format
-brew cmake
 brew cmake-language-server
 brew coreutils
 brew ctop
@@ -71,6 +69,7 @@ brew git
 brew git-delta
 brew glib
 brew gmp
+brew gnu-sed
 brew gnupg
 brew gnutls
 brew go
@@ -86,6 +85,7 @@ brew hexyl
 brew highway
 brew htmlq
 brew htop
+brew icu4c
 brew icu4c@76
 brew ideviceinstaller
 brew imagemagick
@@ -117,7 +117,6 @@ brew libdeflate
 brew libevent
 brew libgcrypt
 brew libgit2
-brew libgit2@1.8
 brew libgpg-error
 brew libheif
 brew libidn
@@ -217,6 +216,7 @@ brew pinentry
 brew pipenv
 brew pipx
 brew pixman
+brew pkg-config
 brew pngpaste
 brew poetry
 brew poppler
@@ -243,6 +243,7 @@ brew ripgrep
 brew rubberband
 brew ruff
 brew rust-analyzer
+brew rustfmt
 brew sdl2
 brew shared-mime-info
 brew shellcheck
@@ -302,10 +303,12 @@ cask gephi
 cask grandperspective
 cask little-snitch
 cask microsoft-azure-storage-explorer
+cask mitmproxy
 cask onedrive
 cask rectangle
 cask slack
 cask utm
+cask wireshark
 cask wkhtmltopdf
 
 tap homebrew/cask-fonts
@@ -328,6 +331,3 @@ tap wader/tap
 
 # Other Homebrew packages
 brew chntpw
-brew icu4c
-brew pkg-config
-brew rustfmt
