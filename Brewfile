@@ -8,7 +8,6 @@ brew aria2
 brew aribb24
 brew asciinema
 brew aspell
-brew at-spi2-core
 brew atool
 brew autoconf
 brew automake
@@ -17,6 +16,7 @@ brew basedpyright
 brew bash
 brew bash-language-server
 brew bat
+brew bdw-gc
 brew brotli
 brew c-ares
 brew ca-certificates
@@ -35,7 +35,6 @@ brew ctop
 brew cython
 brew dasel
 brew dav1d
-brew dbus
 brew dialog
 brew difftastic
 brew dockerfile-language-server
@@ -47,10 +46,7 @@ brew enchant
 brew eslint
 brew eye-d3
 brew eza
-brew faac
-brew faad2
 brew fd
-brew fdk-aac
 brew ffmpeg
 brew ffmpegthumbnailer
 brew flac
@@ -67,33 +63,25 @@ brew gdbm
 brew gdk-pixbuf
 brew gettext
 brew gh
-brew ghostscript
 brew giflib
 brew git
 brew git-delta
 brew glib
-brew glib-networking
 brew gmp
 brew gnu-sed
 brew gnupg
 brew gnutls
 brew go
-brew gobject-introspection
 brew gotop
 brew gpgme
-brew graphene
+brew gpgmepp
 brew graphite2
 brew graphviz
 brew grc
-brew gsettings-desktop-schemas
-brew gstreamer
-brew gtk+3
-brew gtk4
 brew gts
 brew gum
 brew harfbuzz
 brew hexyl
-brew hicolor-icon-theme
 brew highway
 brew htmlq
 brew htop
@@ -109,12 +97,9 @@ brew isl
 brew ispell
 brew jansson
 brew jasper
-brew jbig2dec
-brew jpeg
 brew jpeg-turbo
 brew jpeg-xl
 brew jq
-brew json-glib
 brew just
 brew lame
 brew lcov
@@ -126,16 +111,14 @@ brew libassuan
 brew libavif
 brew libb2
 brew libbluray
-brew libcuefile
 brew libde265
 brew libdeflate
-brew libepoxy
 brew libevent
 brew libgcrypt
+brew libgee
 brew libgit2
 brew libgpg-error
 brew libheif
-brew libidn
 brew libidn2
 brew libimobiledevice
 brew libimobiledevice-glue
@@ -148,22 +131,20 @@ brew libmicrohttpd
 brew libmms
 brew libmpc
 brew libnghttp2
-brew libnice
+brew libnghttp3
+brew libngtcp2
 brew libogg
 brew libomp
 brew libplist
 brew libpng
 brew libpsl
 brew libraw
-brew libreplaygain
 brew librist
 brew librsvg
 brew libsamplerate
-brew libshout
 brew libslirp
 brew libsndfile
 brew libsodium
-brew libsoup
 brew libsoxr
 brew libssh
 brew libssh2
@@ -174,7 +155,6 @@ brew libunibreak
 brew libunistring
 brew libusb
 brew libusbmuxd
-brew libusrsctp
 brew libuv
 brew libvidstab
 brew libvmaf
@@ -185,10 +165,7 @@ brew libxau
 brew libxcb
 brew libxdmcp
 brew libxext
-brew libxfixes
-brew libxi
 brew libxrender
-brew libxtst
 brew libyaml
 brew libzen
 brew libzip
@@ -213,7 +190,6 @@ brew mpdecimal
 brew mpfr
 brew mpg123
 brew mtr
-brew musepack
 brew ncdu
 brew ncurses
 brew netpbm
@@ -233,11 +209,11 @@ brew openssl@1.1
 brew openssl@3
 brew optipng
 brew opus
-brew orc
 brew p11-kit
 brew p7zip
 brew pandoc
 brew pango
+brew pbzip2
 brew pcre2
 brew picocom
 brew pinentry
@@ -251,11 +227,9 @@ brew procs
 brew protobuf
 brew protobuf-c
 brew pwgen
-brew py3cairo
 brew pyenv
 brew pyenv-virtualenv
 brew pyenv-virtualenvwrapper
-brew pygobject3
 brew pyright
 brew python@3.10
 brew python@3.11
@@ -266,7 +240,6 @@ brew rav1e
 brew readline
 brew remake
 brew ripgrep
-brew rtmpdump
 brew rubberband
 brew ruff
 brew rust-analyzer
@@ -274,16 +247,14 @@ brew rustfmt
 brew sdl2
 brew shared-mime-info
 brew shellcheck
+brew simdjson
 brew snappy
 brew socat
 brew speex
-brew spice-server
 brew sqlite
 brew srt
-brew srtp
 brew sshpass
 brew svt-av1
-brew taglib
 brew taplo
 brew tesseract
 brew theora
@@ -292,13 +263,13 @@ brew tree-sitter
 brew typescript
 brew typescript-language-server
 brew unbound
-brew utf8cpp
 brew utf8proc
 brew uv
 brew vde
 brew virtualenvwrapper
 brew webp
 brew wget
+brew wget2
 brew wimlib
 brew x264
 brew x265
@@ -313,6 +284,7 @@ brew yq
 brew yt-dlp
 brew z3
 brew zeromq
+brew zile
 brew zimg
 brew zola
 brew zsh-autosuggestions
@@ -361,13 +333,3 @@ tap wader/tap
 
 # Other Homebrew packages
 brew chntpw
-
-# App Store applications
-appstore 1037126344 Apple Configurator (2.18)
-appstore 682658836 GarageBand (10.4.12)
-appstore 408981434 iMovie (10.4.3)
-appstore 409183694 Keynote (14.4)
-appstore 409203825 Numbers (14.4)
-appstore 409201541 Pages (14.4)
-appstore 1451685025 WireGuard (1.0.16)
-appstore 497799835 Xcode (16.4)
